@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <KUPPI_VERSION>1.0</KUPPI_VERSION>
         <log4j2.version>2.4.1</log4j2.version>
-        <camel.version>2.18.2</camel.version>
+        <camel.version>3.0.1</camel.version>
         <spring.version>4.3.7.RELEASE</spring.version>
 
         <junit.version>4.10</junit.version>
